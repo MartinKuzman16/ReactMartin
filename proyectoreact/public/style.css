@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #000; /* Color de fondo negro */
+    color: #fff; /* Color del texto blanco para mayor visibilidad */
+}
+
+.barberiaImg{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+
+header {
+    text-align: left;
+    padding: 10px;
+
+    color: #fff;
+}
+
+section {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #dd0b0b;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color:#dd0b0b;
+    padding: 8px;
+}
